@@ -4,3 +4,5 @@
 4) image_44
 5) img_5
 6) img_6
+7) image_7
+8) image_8
